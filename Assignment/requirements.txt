@@ -1,0 +1,10 @@
+openai-whisper
+faster-whisper
+transformers
+torch
+torchaudio
+librosa
+soundfile
+jiwer
+pandas
+psutil
